@@ -4,5 +4,4 @@ matplotlib
 scikit-learn
 gensim
 pandas
-gzip
 urllib
